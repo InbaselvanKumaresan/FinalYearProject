@@ -179,7 +179,7 @@ This module allows admin to perform five major operations:
 	
    &nbsp; &nbsp; &nbsp; Patients and doctors can able to delete their appointments.
  
-   ![image](https://user-images.githubusercontent.com/36665975/75169587-d0c72880-574e-11ea-9a9e-ba098c04e594.png)
+  
     
   If the patient deletes the last record (for doctor Ganesh), then a label "deleted by you" will be displayed in the column 'Current Status' and the action will change to cancel state.
   
